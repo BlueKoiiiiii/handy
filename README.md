@@ -1,6 +1,7 @@
 # handy
 ## 🐜 Hexapod for Autonomous Navigation and Detection, Yeah.  
 A fully custom six-legged robot designed, built, and programmed from the ground up. Combines mechanical design, real-time control using inverse kinematics, remote communication, and computer vision for autonomous recycling tasks.
+
 ![image](https://github.com/user-attachments/assets/8781b847-f5ce-44b1-9be6-3444e2ec747e)
 
 
